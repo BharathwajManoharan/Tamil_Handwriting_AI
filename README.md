@@ -1,4 +1,4 @@
-# Tamil Handwriting Recognition Detection Model
+# Handwritten Tamil Recognition Model
 
 Welcome to the Tamil Handwriting Recognition Detection Model repository! This project aims to detect handwritten letters of the Tamil language using deep learning neural networks powered by TensorFlow and AI. The model utilizes the Inception V3 architecture (`inception_v3`) for accurate and efficient recognition.
 
