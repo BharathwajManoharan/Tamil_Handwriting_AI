@@ -1,6 +1,5 @@
 Certainly! Here's the modified version of the README file that includes markdown syntax for easier upload to GitHub:
 
-```markdown
 # Tamil Handwriting Recognition Detection Model
 
 **Tamil AI / Tamil Artificial Intelligence**
@@ -99,7 +98,3 @@ The current implementation of Handwritten Equation Recognizer has several situat
 ## Presentation
 
 A presentation on this project was prepared during our 2nd year. You can find the PowerPoint presentation in the [presentation folder](./presentation).
-
-```
-
-To upload this README file to GitHub, create a new repository, copy the markdown text above, and paste it into the README.md file in your repository. Save the changes, and your README will be uploaded to GitHub.
